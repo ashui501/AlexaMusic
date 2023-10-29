@@ -138,11 +138,11 @@ HELP_5 = """🥺**<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>**
 
 HELP_7 = """💌**<u>ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɴᴇᴡ ғᴇᴀᴛᴜʀᴇs:</u>**
 
-/alive : ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
+/alive : ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ itachi ᴍᴜsɪᴄ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
 /id : ᴛᴏ ᴄʜᴇᴋ ᴜsᴇʀ ᴀɴᴅ ᴄʜᴀᴛ ɪᴅ
 /gcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ`
 /verify : ᴠᴇʀɪꜰʏ ʏᴏᴜʀsᴇʟꜰ ᴀᴛ ᴀʟᴇxᴀ ᴅᴀᴛᴀʙᴀsᴇ
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @uchiha_clanu, @uchiha_clanu @uchiha_clanu
 """
 HELP_8 = """💰**<u>ꜰᴇᴀᴛᴜʀᴇ ꜰᴏʀ ʙʀᴏᴀᴅᴄᴀsᴛ sᴜʙsᴄʀɪᴘᴛɪᴏɴ:</u>**
 
@@ -159,5 +159,5 @@ HELP_8 = """💰**<u>ꜰᴇᴀᴛᴜʀᴇ ꜰᴏʀ ʙʀᴏᴀᴅᴄᴀsᴛ sᴜ�
 **ᴀɴʏᴏɴᴇ ᴄᴀɴ ᴜsᴇ**
 /mysubscription : ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴋ ʏᴏᴜʀ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴡɪᴛʜ ʀᴇᴍᴀɪɴɪɴɢ ᴅᴀʏs ᴀɴᴅ ʙʀᴏᴀᴅᴄᴀsᴛ ᴄᴏᴜɴᴛ.
 /paidbroadcast : sᴇɴᴅ ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀ ᴀɴᴅ ɢʀᴏᴜᴘs ᴀᴛ ᴀ ᴛɪᴍᴇ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴀ ᴀᴄᴛɪᴠᴇ sᴜʙsᴄʀɪᴘᴛɪᴏɴ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @uchiha_clanu @uchiha_clanu @uchiha_clanu
 """
