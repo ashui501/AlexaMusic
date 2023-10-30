@@ -25,7 +25,7 @@ HELP_1 = """🙄**<u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</u>**
 /auth [ᴜsᴇʀɴᴀᴍᴇ] : ᴀᴅᴅ ᴀ ᴜsᴇʀ ᴛᴏ ᴀᴜᴛʜ ʟɪsᴛ ᴏғ ᴛʜᴇ ʙᴏᴛ.
 /unauth [ᴜsᴇʀɴᴀᴍᴇ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ** @uchiha_clanu,  @uchiha_clanu  @uchiha_clanu."""
 
 
 HELP_2 = """💞<u>**ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:**</u>
@@ -50,7 +50,7 @@ HELP_2 = """💞<u>**ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 /playlist  : ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
 /deleteplaylist : ᴅᴇʟᴇᴛᴇ ᴀɴʏ sᴀᴠᴇᴅ ᴛʀᴀᴄᴋ ɪɴ ʏᴏᴜʀ ᴩʟᴀʏʟɪsᴛ.
 /play  : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ**  @uchiha_clanu,  @uchiha_clanu  @uchiha_clanu."""
 
 
 HELP_3 = """😉<u>**ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:**</u>
@@ -61,7 +61,7 @@ HELP_3 = """😉<u>**ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 /song [sᴏɴɢ ɴᴀᴍᴇ] or [ʏᴛ ʟɪɴᴋ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴛʀᴀᴄᴋ ɪɴ ᴀᴜᴅɪᴏ ᴏʀ ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛ.
 /player :  ɢᴇᴛ ᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴩʟᴀʏᴇʀ ᴩᴀɴᴇʟ.
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ**  @uchiha_clanu,  @uchiha_clanu  @uchiha_clanu."""
 
 HELP_4 = """😴<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
@@ -71,7 +71,7 @@ HELP_4 = """😴<u>**ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs:**</u>
 
 🧐<u>**ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs:**</u>
 /settings : sʜᴏᴡs ᴛʜᴇ ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ɪɴʟɪɴᴇ ᴍᴇɴᴜ.
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers."""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ**  @uchiha_clanu,  @uchiha_clanu  @uchiha_clanu."""
 
 HELP_5 = """🥺**<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>**
 /addsudo [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
@@ -134,7 +134,7 @@ HELP_5 = """🥺**<u>ᴀᴅᴅ & ʀᴇᴍᴏᴠᴇ sᴜᴅᴏᴇʀs:</u>**
 **-nobot** : ғᴏʀᴄᴇs ᴛʜᴇ ʙᴏᴛ ᴛᴏ ɴᴏᴛ ʙʀᴏᴀᴅᴄᴀsᴛ ᴛʜᴇ ᴍᴇssᴀɢᴇ..
 
 **ᴇxᴀᴍᴩʟᴇ:** `/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ`
-**ᴘᴏᴡʀᴇᴅ © ʙʏ** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers"""
+**ᴘᴏᴡʀᴇᴅ © ʙʏ**  @uchiha_clanu,  @uchiha_clanu  @uchiha_clanu"""
 
 HELP_7 = """💌**<u>ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɴᴇᴡ ғᴇᴀᴛᴜʀᴇs:</u>**
 
